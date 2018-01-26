@@ -16,7 +16,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 #
 
 # Trying a new theme? and title?
-theme: jekyll-theme-hacker
+theme: hacker
 title: Malik, In Space!
 
 # Includes an icon in the footer for each username you enter
