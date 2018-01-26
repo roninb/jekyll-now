@@ -6,7 +6,7 @@
 name: Malik Butler
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Earth
+description: Developer from Earth
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -16,7 +16,6 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 #
 
 # Trying a new theme? and title?
-theme: jekyll-theme-hacker
 title: Malik, In Space!
 
 # Includes an icon in the footer for each username you enter
@@ -25,7 +24,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: roninb
   instagram:
   linkedin:
   pinterest:
